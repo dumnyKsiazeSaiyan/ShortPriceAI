@@ -32,3 +32,5 @@ Jakub G.
 
 **Słowa kluczowe:** Wycena nieruchomości, AI, Portal ogłoszeniowy, Analiza danych, Preferencje użytkownika, Rekomendacje nieruchomości, Lokalizacja mieszkania, Metraż, Stan techniczny nieruchomości, Personalizacja ofert, Algorytmy, Optymalizacja wyszukiwania, Big data, Interaktywny interfejs użytkownika, Wyszukiwanie nieruchomości, Dopasowanie ofert, Otwarty kod źródłowy, Społeczność deweloperów, Efektywność wyszukiwania, Innowacje w branży nieruchomości.
 
+**Projekt "ShortPrriceAI" został stworzony wyłącznie w celach edukacyjnych i demonstracyjnych.**
+**The "ShortPrriceAI" project has been created solely for educational and demonstrative purposes.**
